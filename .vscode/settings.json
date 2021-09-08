@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "logger.h": "c",
+        "server.h": "c",
+        "commands.h": "c"
+    }
+}
